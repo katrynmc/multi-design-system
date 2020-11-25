@@ -2,6 +2,6 @@
 
 const reactDs = require('..');
 
-describe('react-ds', () => {
+describe('@katrynmc/react-ds', () => {
     it('needs tests');
 });

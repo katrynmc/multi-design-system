@@ -1,11 +1,11 @@
-# `react-ds`
+# `@katrynmc/react-ds`
 
 > TODO: description
 
 ## Usage
 
 ```
-const reactDs = require('react-ds');
+const reactDs = require('@katrynmc/react-ds');
 
 // TODO: DEMONSTRATE API
 ```

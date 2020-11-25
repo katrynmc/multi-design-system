@@ -1,10 +1,7 @@
 {
-  "name": "react-ds",
+  "name": "@katrynmc/react-ds",
   "version": "1.0.0",
-  "description": "A react version of the design system",
-  "keywords": [
-    "react"
-  ],
+  "description": "> TODO: description",
   "author": "Katryn McIntosh <kmcintosh@salsify.com>",
   "homepage": "https://github.com/katrynmc/multi-design-system#readme",
   "license": "ISC",
@@ -16,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/katrynmc/multi-design-system.git"
@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/katrynmc/multi-design-system/issues"
+  },
+  "dependencies": {
+    "react": "^17.0.1"
   }
 }
